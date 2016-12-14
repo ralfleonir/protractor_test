@@ -1,0 +1,20 @@
+{
+  "name": "example-test",
+  "version": "1.0.0",
+  "description": "Automated functional tests (UI) to required website",
+  "main": "",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-env": "^0.4.4",
+    "grunt-protractor-runner": "^3.0.0",
+    "grunt-selenium-server": "^0.1.7",
+    "grunt-shell-spawn": "^0.3.10",
+    "load-grunt-config": "^0.19.1",
+    "load-grunt-tasks": "^3.3.0",
+    "time-grunt": "^0.3.2"
+  },
+  "author": "ralfi",
+  "license": "ISC"
+}

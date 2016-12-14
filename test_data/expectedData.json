@@ -1,0 +1,11 @@
+{
+	"homeUrl": "http://requiredwebsite",
+	"logInPageUrl": "https://accounts.google.com/",
+
+	"userName": "USER",
+
+	"overviewTabText": "Description",
+	"contentTabText": "Introduction",
+
+	"applyForThisCourse": "        Apply for this course    "
+}
